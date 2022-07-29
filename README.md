@@ -3,7 +3,7 @@ Waze WME script built by talented people to reduce the time needed to touch up a
 
 **Meet the script developers**
 - RoadAssister
-# **What will it do:**
+# **How the script works:**
 While selecting a road segment in WME that looks rough with sharp turn angles in a slight turn. Using a slider bar under the script tab you can gradually increase the smoothness of a road segment that isn't neat and more sudden into a segment that has smooth curves, giving it a more forgiving look.
 
 # **Troubleshooting:**
