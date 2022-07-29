@@ -1,4 +1,4 @@
-# WME-Map-Detailed
+# WME-Map-Detailer
 Waze WME script built by talented people to reduce the time needed to touch up a segment.
 
 **Meet the script developers**
