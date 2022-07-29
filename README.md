@@ -1,9 +1,12 @@
 # WME-Map-Detailed
-Script built for Waze WME.
+Waze WME script built by talented people to reduce the time needed to touch up a segment.
+
+**Meet the script developers**
+- RoadAssister
 # **What will it do:**
 While selecting a road segment in WME that looks rough with sharp turn angles in a slight turn. Using a slider bar under the script tab you can gradually increase the smoothness of a road segment that isn't neat and more sudden into a segment that has smooth curves, giving it a more forgiving look.
 
-# **Troubleshooting**
+# **Troubleshooting:**
 If a problem occurs while using the script, it would use WME to display the error, for instance if the segment has less points than required. For more technical errors such as an issue within the code itself you would use the browser's console.
 
 # **Debugging:**
